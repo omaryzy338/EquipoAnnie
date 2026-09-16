@@ -38,7 +38,6 @@ h1 {
 .descripcion {
   grid-column: 2;
   font-size: 16px;
-  line-height: 1.5;
 }
 
 .volver {
@@ -60,3 +59,4 @@ h1 {
 .volver button:hover {
   background-color: darkgreen;
 }
+
