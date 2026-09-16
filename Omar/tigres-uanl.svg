@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Tigres UANL</title>
+  <desc id="desc">Diseño decorativo en azul y amarillo con el texto Tigres UANL</desc>
+  <rect width="640" height="480" rx="24" fill="#13294b"/>
+  <path d="M0 360 250 0h90L90 480H0Zm210 120L540 0h100v100L300 480Z" fill="#f6c900" opacity=".95"/>
+  <path d="M640 220 455 480h-90l185-260Z" fill="#f6c900" opacity=".95"/>
+  <circle cx="320" cy="220" r="112" fill="#fff" stroke="#f6c900" stroke-width="16"/>
+  <path d="M258 187c20-28 42-28 62 0 20-28 42-28 62 0M270 245c32 24 68 24 100 0" fill="none" stroke="#13294b" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="290" cy="218" r="8" fill="#13294b"/>
+  <circle cx="350" cy="218" r="8" fill="#13294b"/>
+  <text x="320" y="390" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="2">TIGRES UANL</text>
+</svg>
